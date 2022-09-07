@@ -1,0 +1,56 @@
+/*
+Testing the comment feature on css file
+Can do multiple lines at once
+*/
+
+*{text-align: center;}
+hr{
+    width: 50%;
+}
+h2, p{
+    font-style: italic; color: blue;
+}
+
+
+
+q.red{background-color: red;color: black;}
+q.blue{background-color: cyan;color: red;}
+
+
+h2 {font-variant: small-caps;}
+body {font-family: Courier, monospace;}
+
+h1{border: thin dotted blue;}
+h2{border: 10px solid;}
+
+.eggplant {background-color: rgb(52%, 20%, 45%);}
+.white{color: white;}
+.orange-background{background-color: orange;}
+.black{color: black; background-color: orange;}
+
+#Obama-Quote{
+    background-color: yellow; color: crimson;
+}
+
+
+
+
+
+/*
+
+.red{
+    background-color: aqua;
+}
+.white{
+    background-color: green;
+}
+.blue{
+    background-color: red;
+}
+
+*/
+
+/*.orange{
+    color: darkorange;
+}
+*/
